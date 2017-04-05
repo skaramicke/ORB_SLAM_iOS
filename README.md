@@ -6,7 +6,7 @@ Various IO options and utility are provided to test ORB_SLAM, including:
 
 1. Metal for AR testing
 2. SceneKit for realtime trajectory viewing
-3. AVFoudnation for live RGB stream
+3. AVFoundation for live RGB stream
 4. OpenCV utilities for record data and stream from files
 5. StrctureSensor(optional) for scale calibrated tracking and map reconstruction
 
